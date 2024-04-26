@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-// adjacnecy matrix
-public class adjacnecy_matrix {
+// adjacency matrix
+public class adjacency_matrix {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter the Number of vertices :");
